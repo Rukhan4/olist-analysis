@@ -43,6 +43,20 @@ Full methodology and reasoning for every decision, including the ones that turne
 
 ---
 
+## Visuals
+
+### Interactive Tableau Dashboard
+
+![Tableau dashboard screenshot](./tableau%20dashboard%20photo.jpg)
+
+### Executive Summary (Excel)
+
+![Excel executive summary, page 1](./excel%20summary%201.jpg)
+
+![Excel executive summary, page 2](./excel%20summary%202.jpg)
+
+---
+
 ## Methodology Overview
 
 | Phase | What Was Done | Tools |
