@@ -92,4 +92,4 @@ Full methodology and reasoning for every decision, including the ones that turne
 
 ## Author
 
-**Surur Khan** - [LinkedIn] · [Resume]
+**Surur Khan** 
